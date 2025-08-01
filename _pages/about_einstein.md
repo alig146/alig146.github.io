@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Ali. I’m a Physics PhD student at the University of Washington, currently based at CERN in Geneva.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on searching for Higgs boson decays to tau leptons at the LHC. I’m also passionate about applying state of the art machine learning algorithms to solve problems in high energy physics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of work, I enjoy hiking, cycling, playing soccer, and racket sports. I also write a weekly blog where I share thoughts on various topics and highlight interesting things I’ve recently read.

@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Alexi Gladstone # the website title (if blank, full name will be used instead)
-first_name: Alexi
+title: Ali Garabaglu # the website title (if blank, full name will be used instead)
+first_name: Ali
 middle_name:
-last_name: Gladstone
+last_name: Garabaglu
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -136,7 +136,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
     output: true
 
