@@ -251,9 +251,6 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Gladstone]
-  first_name: [Alexi, A.]
-
   style: apa
   locale: en
 
