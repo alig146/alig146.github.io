@@ -30,3 +30,5 @@ My name is Ali. I’m a Physics PhD student at the University of Washington, cur
 My current research focuses on searching for Higgs boson decays to tau leptons at the LHC. I’m also working on applying state of the art machine learning algorithms to solve problems in high energy physics.
 
 Outside of work, I enjoy hiking, cycling, playing soccer, and racket sports. I also write a weekly blog where I share thoughts on various topics and highlight interesting things I’ve recently read.
+
+Feel free to reach out at <a href="mailto:ali.garabaglu@gmail.com">my email</a> to chat about physics, ML or my blogs.
