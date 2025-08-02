@@ -1,13 +1,5 @@
 ---
-laprofile:
-  align: right
-  image: me.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>A Uranium cube from Heisenberg's B-VIII experiment</p>
-
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the pageut
+layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
@@ -19,7 +11,7 @@ profile:
   more_info: >
     <p>A Uranium cube from Heisenberg’s B-VIII experiment</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
