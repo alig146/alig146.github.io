@@ -3,9 +3,9 @@ layout: post
 title: The Great Stagnation Era of Physics
 date: 2025-08-02 10:00:00
 description: some thoughts on why we may be seeing a derease in major discoveries in particle physics
-tags: physics
-categories: personal
-featured: true
+tags: [physics, particle-physics, academia, research, science-policy, standard-model, philosophy-of-science, theoretical-physics]
+categories: physics
+featured: false
 ---
 
 The 20th century saw a series of radical transformations in our understanding of the physical world. The work of Planck, Schrödinger, Einstein, and Feynman, among others, dismantled the classical framework and established the quantum and relativistic paradigms that define modern physics. The technologies that have since reshaped society, from semiconductors to global positioning systems, are direct applications of these foundational theories. A stark contrast has emerged in our own time: while technology advances at an accelerating pace, progress on the most fundamental questions in physics appears to have significantly decelerated.
