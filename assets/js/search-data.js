@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/https:/alig146.github.io/assets/pdf/garabaglu_ali_cv.pdf";
           },
         },{id: "post-the-great-stagnation-era-of-physics",
         
