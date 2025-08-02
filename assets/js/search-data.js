@@ -30,21 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "books-the-godfather",
+        },{id: "post-the-great-stagnation-era-of-physics",
+        
+          title: "The Great Stagnation Era of Physics",
+        
+        description: "some thoughts on why we may be seeing a derease in major discoveries in particle physics",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/stagnation-of-physics/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
