@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/alig146.github.io/assets/pdf/garabaglu_ali_cv.pdf";
           },
-        },{id: "post-the-great-stagnation-era-of-physics",
+        },{id: "post-how-to-consume-reality",
+        
+          title: "How to Consume Reality",
+        
+        description: "How humans observe reality and how machines can learn from it",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/obervation/";
+          
+        },
+      },{id: "post-the-great-stagnation-era-of-physics",
         
           title: "The Great Stagnation Era of Physics",
         
