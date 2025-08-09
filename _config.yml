@@ -84,7 +84,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: The Red Book # blog_name will be displayed in your blog page
-blog_description: I share my thoughts on various topics
+blog_description: A collection of thought experiments
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
