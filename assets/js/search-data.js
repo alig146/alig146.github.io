@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/alig146.github.io/assets/pdf/garabaglu_ali_cv.pdf";
           },
-        },{id: "post-how-to-consume-reality",
+        },{id: "post-building-intuition-with-a-paradox",
+        
+          title: "Building Intuition With a Paradox",
+        
+        description: "Stein&#39;s paradox and how it can help build our intuition on certain ML methods",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/stein/";
+          
+        },
+      },{id: "post-how-to-consume-reality",
         
           title: "How to Consume Reality",
         
