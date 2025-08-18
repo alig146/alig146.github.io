@@ -369,10 +369,14 @@ enable_video_embedding: false
 third_party_libraries:
   download: false
   mathjax:
-    url:
-      js: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
     integrity:
-      js: "sha256-DfcNUUojFHfT/6T5n5/X/gIH0WPXQqr4U2HTTbdQNKI="
+      js: "sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="
+    local:
+      fonts: "output/chtml/fonts/woff-v2/"
+    url:
+      fonts: "https://cdn.jsdelivr.net/npm/mathjax@{{version}}/es5/output/chtml/fonts/woff-v2/"
+      js: "https://cdn.jsdelivr.net/npm/mathjax@{{version}}/es5/tex-mml-chtml.js"
+    version: "3.2.2"
 
 # -----------------------------------------------------------------------------
 # Get external JSON data
