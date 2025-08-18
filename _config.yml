@@ -361,8 +361,6 @@ enable_project_categories: true
 enable_medium_zoom: true
 enable_progressbar: true
 enable_video_embedding: false
-mathjax: true
-katex: false
 
 # -----------------------------------------------------------------------------
 # Library versions
@@ -370,7 +368,11 @@ katex: false
 
 third_party_libraries:
   download: false
-  # ... (rest of the library settings are fine)
+  mathjax:
+    url:
+      js: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+    integrity:
+      js: "sha256-DfcNUUojFHfT/6T5n5/X/gIH0WPXQqr4U2HTTbdQNKI="
 
 # -----------------------------------------------------------------------------
 # Get external JSON data
