@@ -31,4 +31,4 @@ My current research focuses on searching for Higgs boson decays to tau leptons a
 
 Outside of work, I enjoy hiking, cycling, playing soccer, and racket sports. I also write a weekly blog where I share thoughts on various topics and highlight interesting things I’ve recently read.
 
-Feel free to reach out at <a href="mailto:ali.garabaglu@gmail.com">my email</a> to chat about physics, ML or my blogs.
+Feel free to reach out at <a href="mailto:ali.garabaglu@gmail.com">my email</a> to chat about physics or my blogs.
