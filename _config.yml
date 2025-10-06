@@ -22,7 +22,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
-# google_site_verification: google-site-verification=vJokFZ8Ew16fYCCXQmJwH9sKiNUeEYtDqpMARgoItAo
 # cv_pdf: garabaglu_ali_cv.pdf
 # -----------------------------------------------------------------------------
 # Theme
@@ -76,7 +75,7 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification: googlefa2a071f154d0171 # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -183,6 +182,7 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
+  - googlefa2a071f154d0171.html
 
 # Plug-ins
 plugins:
