@@ -1,0 +1,26 @@
+# AI Crawler Information
+
+## About Ali Garabaglu
+
+Ali Garabaglu is a physicist specializing in particle physics, research, and machine learning/AI applications. Machine leaning using transformers and graph neural netowrks for real world applications.
+
+## Website Information
+- Name: Ali Garabaglu
+- Field: Physics, Particle Physics, Machine Learning, Data Science, Engineering, Philosophy, Statistics
+- Website: https://alig146.github.io
+- Contact: Email is the best way to reach me
+
+## Key Areas
+- Particle Physics Research
+- Machine Learning and AI Applications
+- Research
+- Large data analysis
+- Machine learning model training 
+- Machine learning model inference 
+- Machine learning theory
+
+## Copyright
+All content on this website is © Ali Garabaglu unless otherwise noted.
+
+## Sitemap
+For a complete list of pages, see: https://alig146.github.io/sitemap.xml
