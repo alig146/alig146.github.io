@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/alig146.github.io/assets/pdf/garabaglu_ali_cv.pdf";
           },
-        },{id: "post-building-intuition-with-a-paradox",
+        },{id: "post-the-scaling-laws-of-particle-accelerators",
+        
+          title: "The Scaling Laws of Particle Accelerators",
+        
+        description: "A study of the scaling laws of particle accelerators",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/collider-scaling-laws/";
+          
+        },
+      },{id: "post-building-intuition-with-a-paradox",
         
           title: "Building Intuition With a Paradox",
         

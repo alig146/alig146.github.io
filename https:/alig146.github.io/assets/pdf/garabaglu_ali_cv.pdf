@@ -1,4 +1,4 @@
-<!doctype html> <html lang="en"> <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title> cv | Ali Garabaglu </title> <meta name="author" content="Ali Garabaglu"> <meta name="description" content="A simple, whitespace theme for academics. "> <meta name="keywords" content="Ali Garabaglu, physics, physicist, particle physics, academic research, machine learning, ML, AI"> <script type="application/ld+json">
+<!doctype html> <html lang="en"> <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title> cv | Ali Garabaglu </title> <meta name="author" content="Ali Garabaglu"> <meta name="description" content="Physics PhD student at the University of Washington, currently based at CERN in Geneva. Research focuses on Higgs boson decays and machine learning in high energy physics. "> <meta name="keywords" content="Ali Garabaglu, physics, physicist, particle physics, academic research, machine learning, ML, AI"> <meta property="og:site_name" content="Ali Garabaglu"> <meta property="og:type" content="website"> <meta property="og:title" content="cv"> <meta property="og:url" content="https://alig146.github.io/https:/alig146.github.io/assets/pdf/garabaglu_ali_cv.pdf"> <meta property="og:description" content="Physics PhD student at the University of Washington, currently based at CERN in Geneva. Research focuses on Higgs boson decays and machine learning in high energy physics. "> <meta property="og:locale" content="en"> <meta name="twitter:card" content="summary"> <meta name="twitter:title" content="cv"> <meta name="twitter:description" content="Physics PhD student at the University of Washington, currently based at CERN in Geneva. Research focuses on Higgs boson decays and machine learning in high energy physics. "> <script type="application/ld+json">
     {
         "author":
         {
@@ -7,7 +7,7 @@
         },
         "url": "https://alig146.github.io/https:/alig146.github.io/assets/pdf/garabaglu_ali_cv.pdf",
         "@type": "WebSite",
-        "description": "A simple, whitespace theme for academics.
+        "description": "Physics PhD student at the University of Washington, currently based at CERN in Geneva. Research focuses on Higgs boson decays and machine learning in high energy physics.
 ",
         "headline": "cv",
         
