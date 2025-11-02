@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+description: Physics PhD student at the University of Washington, currently based at CERN in Geneva. Research focuses on Higgs boson decays and machine learning in high energy physics.
 
 profile:
   align: right
