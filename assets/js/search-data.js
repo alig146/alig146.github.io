@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/alig146.github.io/assets/pdf/garabaglu_ali_cv.pdf";
           },
-        },{id: "post-the-scaling-laws-of-particle-accelerators",
+        },{id: "post-scaling-laws-of-particle-accelerators",
         
-          title: "The Scaling Laws of Particle Accelerators",
+          title: "Scaling Laws of Particle Accelerators",
         
         description: "A study of the scaling laws of particle accelerators",
         section: "Posts",
