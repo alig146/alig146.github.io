@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-description: Physics PhD student at the University of Washington, currently based at CERN in Geneva. Research focuses on Higgs boson decays and machine learning in high energy physics.
-
+description: PhD in High Energy Physics. Currently learning biology.
 profile:
   align: right
   image: me.jpg
@@ -26,10 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Ali. I’m a Physics PhD student at the University of Washington, currently based at CERN in Geneva.
+I received my PhD in High Energy Physics from the University of Washington, where I studied Higgs boson and tau lepton physics at the Large Hadron Collider (LHC). Alongside my work in particle physics, I developed and applied state-of-the-art machine learning methods to address challenging problems in high-energy physics.
 
-My current research focuses on searching for Higgs boson decays to tau leptons at the LHC. I’m also working on applying state of the art machine learning algorithms to solve problems in high energy physics.
+I am currently at Yale, expanding my research into biology. I am interested in developing theoretical and computational frameworks to better understand biological systems, drawing on the growing wealth of available biological data. In particular, I am interested in predicting protein function and understanding cellular dynamics, with an emphasis on combining ideas from physics, statistics, and machine learning.
 
-Outside of work, I enjoy hiking, cycling, playing soccer, and racket sports. I also write a weekly blog where I share thoughts on various topics and highlight interesting things I’ve recently read.
+Outside of work, I enjoy hiking, cycling, playing soccer, and racket sports. I also try to write a weekly blog where I share thoughts on various topics and highlight interesting things I’ve recently read.
 
 Feel free to reach out at <a href="mailto:ali.garabaglu@gmail.com">my email</a> to chat about physics or my blogs.
